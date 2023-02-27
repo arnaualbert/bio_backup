@@ -6,7 +6,7 @@ Write your name, surname and dni.
 
 name:    str = 'Arnau'
 surname: str = 'Albert'
-dni:     str = '49949066N'
+dni:     str = ''
 
 assert name,    'Please write your name'
 assert surname, 'Please write your surname'
