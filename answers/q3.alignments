@@ -1,0 +1,32 @@
+YP_009724392.1:
+target            0 MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+                  0 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query             0 MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+
+target           60 RVKNLNSSRVPDLLV 75
+                 60 ||||||||||||||| 75
+query            60 RVKNLNSSRVPDLLV 75
+
+
+YP_009724394.1:
+target            0 MFHLVDFQVTIAEILLIIMRTFKVSIWNLDYIINLIIKNLSKSLTENKYSQLDEEQPMEI
+                  0 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query             0 MFHLVDFQVTIAEILLIIMRTFKVSIWNLDYIINLIIKNLSKSLTENKYSQLDEEQPMEI
+
+target           60 D 61
+                 60 | 61
+query            60 D 61
+
+
+YP_009725318.1:
+target            0 MIELSLIDFYLCFLAFLLFLVLIMLIIFWFSLELQDHNET-CHA 43
+                  0 |||||||||||||||||||||||||||||||||||||||--||| 44
+query             0 MIELSLIDFYLCFLAFLLFLVLIMLIIFWFSLELQDHNE-ICHA 43
+
+
+YP_009725255.1:
+target            0 MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT 38
+                  0 |||||||||||||||||||||||||||||||||||||| 38
+query             0 MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT 38
+
+

@@ -1,0 +1,64 @@
+LOCUS       NG_062658               1710 bp    DNA     linear   PLN 14-DEC-2018
+DEFINITION  Cordyceps cateniobliqua CBS 153.83 18S rRNA gene, partial sequence;
+            from TYPE material.
+ACCESSION   NG_062658
+VERSION     NG_062658.1
+DBLINK      BioProject: PRJNA39195
+KEYWORDS    RefSeq.
+SOURCE      Cordyceps cateniobliqua
+  ORGANISM  Cordyceps cateniobliqua
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Sordariomycetes; Hypocreomycetidae; Hypocreales; Cordycipitaceae;
+            Cordyceps.
+REFERENCE   1  (bases 1 to 1710)
+  AUTHORS   Luangsa-Ard,J.J., Hywel-Jones,N.L. and Samson,R.A.
+  TITLE     The polyphyletic nature of Paecilomyces sensu lato based on
+            18S-generated rDNA phylogeny
+  JOURNAL   Mycologia 96 (4), 773-780 (2004)
+   PUBMED   21148898
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to AY526466.
+            COMPLETENESS: incomplete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..1710
+                     /organism="Cordyceps cateniobliqua"
+                     /mol_type="genomic DNA"
+                     /strain="CBS 153.83"
+                     /culture_collection="CBS:153.83"
+                     /type_material="culture from holotype of Cordyceps
+                     cateniobliqua"
+                     /db_xref="taxon:983340"
+     rRNA            <1..>1710
+                     /product="18S ribosomal RNA"
+ORIGIN      
+        1 aattaagcca tgcatgtcta agtataagca attatacagc gaaactgcga atggctcatt
+       61 atataagtta tcgtttattt gatagtacct tactacttgg ataaccgtgg taattctaga
+      121 gctaatacat gctaaaaatc ccgacttcgg aagggatgta tttattagat taaaaaccaa
+      181 tgccctctgg gctccttggt gattcataat aacttttcga atcgcatggc cttgcgccgg
+      241 cgatggttca ttcaaatttc ttccctatca actttcgatg tttgggtatt ggccaaacat
+      301 ggtcgcaacg ggtaacggag ggttagggct cgaccccgga gaaggagcct gagaaacggc
+      361 tactacatcc aaggaaggca gcaggcgcgc aaattaccca atcccgattc ggggaggtag
+      421 tgacaataaa tactgataca gggctctttt gggtcttgta attggaatga gtacaattta
+      481 aatcccttaa cgaggaacaa ttggagggca agtctggtgc cagcagccgc ggtaattcca
+      541 cctccaatag cgtatattaa agttgttgtg gttaaaaagc tcgtagttga accttgggcc
+      601 tggctggccg gtccgccttc accgcgtgta ctggtccggc cgggcctttc cctctgtgga
+      661 acctcatgcc cttcactggg tgtggcgggg aaacaggact tttactttga aaaaattaga
+      721 gtgctccagg caggcctatg ctcgaataca ttagcatggg aataataaaa taaggacgcg
+      781 tggttctatt ttgttggttt ctaggaccgc cgtaatgatt aatagggaca gtcgggggca
+      841 tcagtattca attgtcagag gtgaaattct tggatttatt gaagactaac tactgcgaaa
+      901 gcatttgcca aggatgtttt cattaatcag gaacgaaagt taggggatcg aagacgatca
+      961 gatacccgtc gtagtcttaa ccataaacta tgccgactag ggatcggacg atgttatttt
+     1021 ttgacccgtt cggcacctta cgagaaatca aagtgcttgg gctcccaggg ggagtatggt
+     1081 cgcaaggctg aaacttaaag aaattgacgg aagggcacca ccaggggtgg agcctgcggc
+     1141 ttaatttgac tcaacacggg gaaactcacc aggtccagac acaatgagga ttgacagatt
+     1201 gagagctctt tcttgatttt gtgggtggtg gtgcatggcc gttcttagtt ggtggagtga
+     1261 tttgtctgct taattgcgat aacgaacgag accttaacct gctaaatagc ccgtattgct
+     1321 ttggcagtac gccggcttct tagagggact atcggctcaa gccgatggaa gtttgaggca
+     1381 ataacaggtc tgtgatgccc tttagatgtt ctgggccgca cgcgcgctac actgacggag
+     1441 cccagcgagt acttctttgg gcgaaaggcc cgggtaatct tgttaaactc cgtcgtgctg
+     1501 gggatagagc attgcaatta ttgctcttca acgaggaatc ctagtaagcg caagtcatca
+     1561 gcttgcgttg attacgtccc tgccctttgt acacaccgcc gtcgctacta ccgattgaat
+     1621 ggctcagtga ggcgtccgga ctggcccagg gaggtgggca actaccaccc agggccggaa
+     1681 agctctccaa actcgggtca tttagaggaa
+//
+

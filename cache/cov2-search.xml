@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>6787641</Count><RetMax>3</RetMax><RetStart>0</RetStart><IdList>
+<Id>OQ427820.1</Id>
+<Id>OQ427819.1</Id>
+<Id>OQ427818.1</Id>
+</IdList><TranslationSet><Translation>     <From>coronavirus</From>     <To>"Alphacoronavirus"[Organism] OR "Betacoronavirus"[Organism] OR "Gammacoronavirus"[Organism] OR coronavirus[All Fields]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>"Alphacoronavirus"[Organism]</Term>    <Field>Organism</Field>    <Count>18001</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"Betacoronavirus"[Organism]</Term>    <Field>Organism</Field>    <Count>6731105</Count>    <Explode>Y</Explode>   </TermSet>   <OP>OR</OP>   <TermSet>    <Term>"Gammacoronavirus"[Organism]</Term>    <Field>Organism</Field>    <Count>13405</Count>    <Explode>Y</Explode>   </TermSet>   <OP>OR</OP>   <TermSet>    <Term>coronavirus[All Fields]</Term>    <Field>All Fields</Field>    <Count>6768556</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>"Alphacoronavirus"[Organism] OR "Betacoronavirus"[Organism] OR "Gammacoronavirus"[Organism] OR coronavirus[All Fields]</QueryTranslation></eSearchResult>

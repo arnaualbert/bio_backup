@@ -1,0 +1,558 @@
+SNPedia <https://www.snpedia.com/index.php/SNPedia>
+
+  * Talk <https://www.snpedia.com/index.php/Special:MyTalk>
+  * Contributions
+    <https://www.snpedia.com/index.php/Special:MyContributions>
+  * Create account
+    <https://www.snpedia.com/index.php?title=Special:CreateAccount&returnto=Rs53576>
+  * Log in
+    <https://www.snpedia.com/index.php?title=Special:UserLogin&returnto=Rs53576>
+
+Navigation <#>
+SNPedia <https://www.snpedia.com/index.php/SNPedia>
+Promethease <https://www.snpedia.com/index.php/Promethease>
+FAQ <https://www.snpedia.com/index.php/SNPedia:FAQ>
+Blog <http://snpedia.blogspot.com/>
+Recent changes <https://www.snpedia.com/index.php/Special:RecentChanges>
+Random page <https://www.snpedia.com/index.php/Special:Random>
+
+Page <https://www.snpedia.com/index.php/Rs53576>
+Discussion
+<https://www.snpedia.com/index.php?title=Talk:Rs53576&action=edit&redlink=1>
+Edit with form
+<https://www.snpedia.com/index.php?title=Rs53576&action=formedit>
+Edit <https://www.snpedia.com/index.php?title=Rs53576&action=edit>
+History <https://www.snpedia.com/index.php?title=Rs53576&action=history>
+
+Have questions? Visit https://www.reddit.com/r/SNPedia
+<https://www.reddit.com/r/SNPedia>
+
+
+  rs53576
+
+From SNPedia
+Jump to:navigation <#mw-navigation>, search <#p-search>
+
+influences social behavior and personality
+
+Orientation <https://www.snpedia.com/index.php/Orientation>	plus
+
+Stabilized <https://www.snpedia.com/index.php/StabilizedOrientation>	plus
+
+Geno 	Mag <https://www.snpedia.com/index.php/Magnitude> 	Summary
+(A;A) <https://www.snpedia.com/index.php/Rs53576(A;A)> 	2.8 	Lack of
+empathy?
+(A;G) <https://www.snpedia.com/index.php/Rs53576(A;G)> 	2.8 	Lack of
+empathy?
+(G;G) <https://www.snpedia.com/index.php/Rs53576(G;G)> 	2.5 	Optimistic
+and empathetic; handle stress well
+
+Reference	GRCh38 <https://www.snpedia.com/index.php/GRCh38> 38.1/141
+
+Chromosome	3
+
+Position	8762685
+
+Gene	OXTR <https://www.snpedia.com/index.php/OXTR>
+
+is a	snp <https://www.snpedia.com/index.php/Snp>
+is	mentioned by
+<https://www.snpedia.com/index.php/Special:WhatLinksHere/Rs53576>
+dbSNP	rs53576 <https://www.ncbi.nlm.nih.gov/snp/rs53576>
+dbSNP (classic)	rs53576
+<https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?do_not_redirect&rs=rs53576>
+ClinGen	rs53576
+<http://reg.clinicalgenome.org/redmine/projects/registry/genboree_registry/alleles?dbSNP.rs=53576>
+ebi	rs53576 <https://www.ebi.ac.uk/gwas/search?query=rs53576>
+HLI	rs53576 <https://search.hli.io/?q=rs53576>
+Exac	rs53576 <http://exac.broadinstitute.org/awesome?query=rs53576>
+Gnomad	rs53576 <http://gnomad.broadinstitute.org/awesome?query=rs53576>
+Varsome	rs53576 <https://varsome.com/variant/hg19/rs53576>
+LitVar	rs53576
+<https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/LitVar/#!?query=rs53576>
+Map	rs53576 <http://popgen.uchicago.edu/ggv/?search=rs53576>
+PheGenI	rs53576 <http://www.ncbi.nlm.nih.gov/gap/PheGenI?tab=2&rs=53576>
+Biobank	rs53576 <https://biobankengine.stanford.edu/awesome?query=rs53576>
+1000 genomes <https://www.snpedia.com/index.php/1000_genomes>	rs53576
+<http://browser.1000genomes.org/Homo_sapiens/Variation/Population?v=rs53576;vdb=variation>
+hgdp	rs53576
+<http://hgdp.uchicago.edu/cgi-bin/gbrowse/HGDP/?name=SNP%3Ars53576>
+ensembl	rs53576
+<http://www.ensembl.org/Homo_sapiens/snpview?source=dbSNP;snp=rs53576>
+geneview	rs53576
+<http://bc3.informatik.hu-berlin.de/search?gv_search_query=RS:53576>
+scholar	rs53576 <http://scholar.google.com/scholar?q=rs53576&as_subj=bio>
+google	rs53576 <http://www.google.com/search?hl=en&q=rs53576>
+pharmgkb	rs53576 <http://www.pharmgkb.org/rsid/rs53576>
+gwascentral	rs53576 <http://www.gwascentral.org/marker/dbSNP:rs53576>
+openSNP	rs53576 <https://opensnp.org/snps/rs53576#users>
+23andMe <https://www.snpedia.com/index.php/23andMe_(help)>	rs53576
+<https://www.23andme.com/tools/data/?query=rs53576>
+SNPshot	rs53576
+<http://bioai4core.fulton.asu.edu/snpshot/FactSheet?id=rs53576&type=RSNO>
+SNPdbe	rs53576
+<http://www.rostlab.org/services/snpdbe/dosearch.php?id=mutation&val=rs53576>
+MSV3d	rs53576
+<http://decrypthon.igbmc.fr/msv3d/cgi-bin/humsavar?rsid=rs53576>
+GWAS Ctlg	rs53576 <https://www.ebi.ac.uk/gwas/search?query=rs53576>
+
+GMAF <https://www.snpedia.com/index.php/GMAF>	0.4128
+
+Max Magnitude <https://www.snpedia.com/index.php/Max_Magnitude>	2.8
+
+rs53576 is a silent G to A change in the oxytocin receptor (OXTR) gene.
+Studies have demonstrated that individuals with the G allele are more
+empathetic, feel less lonely, employ more sensitive parenting
+techniques, and have lower rates of autism (discussed in [PMID 20724662
+<https://www.ncbi.nlm.nih.gov/pubmed/20724662?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>])
+
+The blog Not Exactly Rocket Science
+<http://blogs.discovermagazine.com/notrocketscience/2010/08/16/genes-and-culture-oxtr-gene-influences-social-behaviour-differently-in-americans-and-koreans/> discusses that Americans with (G;G) tend to be more sensitive parents, more empathetic and less lonely than those with an ‘A’. In a Korean population people with (G;G) were less likely to seek support from their peers.
+
+[PMID 20724662
+<https://www.ncbi.nlm.nih.gov/pubmed/20724662?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Culture, distress,
+and oxytocin receptor polymorphism (OXTR) interact to influence
+emotional support seeking.
+
+[PMID 19934046
+<https://www.ncbi.nlm.nih.gov/pubmed/19934046?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Oxytocin receptor
+genetic variation relates to empathy and stress reactivity in humans. In
+brief, people with the G;G genotype were better able to discern the
+emotional state of others than those who carried the A-allele (blog
+<http://genes2brains2mind2me.com/2009/11/24/look-deeply-into-my-eyes-and-let-me-see-your-genes/> summary found here). The study encompassed 192 participants of both sexes and mixed ethnicities. The study subjects underwent a number of tests to determine their level of empathy and stress reactivity. They found that G;G individuals performed significantly better on the behavioral measure of empathy and were 22.7% less likely to make a mistake on the "Reading the Mind in the Eyes Test" (RMET) (a behavioural measure of empathic accuracy) than A;A/A;G individuals (P = 0.005). Similarly, G;G individuals reported higher levels of dispositional empathy than A;A/A;G individuals: mean (SE) = 3.69 (0.06) and 3.53 (0.04) for G;G and A;A/A;G, respectively (P = 0.025), and were less affected by stress (as measured by their heart rates): mean (SE) = 72.1 (0.54) and 78.4 (1.19) for G;G and A;A/A;G, respectively.
+
+[PMID 19376182
+<https://www.ncbi.nlm.nih.gov/pubmed/19376182?dopt=Abstract>]
+Associations between the oxytocin receptor gene (OXTR) and affect,
+loneliness and intelligence in normal subjects.
+
+[PMID 19015103
+<https://www.ncbi.nlm.nih.gov/pubmed/19015103?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] This study
+examined the association between the OXTR gene and parenting. A total of
+176 mothers of toddlers were included in the study. After controlling
+for marital discord, depression, and education status, rs53576 was found
+to significantly correlate with parenting, with the G;G genotype being
+associated with a significantly more sensitive parenting style than A;A
+or A;G genotypes. However, they concluded that the major factor
+influencing parenting was the maternal education level.
+
+
+[PMID 22069391
+<https://www.ncbi.nlm.nih.gov/pubmed/22069391?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Forty-five female
+subjects (17 twin pairs and 11 twins without their sibling) were
+genotyped and tested for their ability to hear and understand
+conversations in noisy environments. Participants with the G;G genotype
+reported less difficulty hearing and understanding (difficulty hearing
+total score [Mean (SD)], 9.2 (4.2)) than participants with A;A/A;G
+genotypes (13.9 (3.8); p < 0.001). Even after adjusting for age, the
+relationship between genotype and difficulty hearing scores was still
+significant (p = 0.003).
+
+
+[PMID 22123970
+<https://www.ncbi.nlm.nih.gov/pubmed/22123970?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Two hundred three
+healthy German male university students (mean age 23.2 y, SD 2.9 y) were
+subjected to a mock interview and their saliva cortisol levels were
+tested before and at a number of time points after the interview. Half
+of the participants were told to bring a female friend as social
+support, whereas the other half came alone to the interview. The authors
+found that subjects carrying the G allele (G;G or A;G genotypes) had
+significantly lower cortisol responses to stress when they had social
+support (P < 0.01). Conversely, there were no differences in cortisol
+levels in subjects with the A;A genotype receiving or not receiving
+social support (P = 0.46). Moreover, there was a trend (P = 0.08) for
+people with the A;A genotype to display higher levels of cortisol
+throughout the session than G carriers (no differences between the
+genotypes were observed at baseline).
+
+23andMe blog
+<http://blog.23andme.com/2011/12/12/snpwatch-we-care-a-lot/> discusses
+the snp.
+
+blogs.scientificamerican
+<http://blogs.scientificamerican.com/scicurious-brain/2011/12/19/when-is-comfort-most-comforting-when-youve-got-a-specific-oxytocin-gene/> discusses the snp.
+
+
+[PMID 20647384
+<https://www.ncbi.nlm.nih.gov/pubmed/20647384?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] In this study, 345
+healthy subjects were examined by multimodal neuroimaging techniques to
+identify structural and functional alterations in OXTR risk allele
+carriers and their link to temperament. The authors found that there was
+a significant association between the different rs53576 genotypes and
+grey matter volume in the hypothalamus, with the hypothalamus volume
+being significantly larger in G;G carriers than in A;A carriers (P =
+0.012). Moreover, they investigated the relationship between rs53576 and
+reward dependence (RD) using the Tridimensional Personality
+Questionnaire, and found that the G;G, G;A, and A;A genotypes were
+associated with the highest, intermediate, and lowest RD values,
+respectively (G;G vs. A;A, p=0.02; A;G vs. A;A, p=0.07). Lastly, they
+also demonstrated that rs53576 is associated with amygdala activation,
+with the A;A genotype being associated with a significant reduction in
+activation compared to the G;G genotype (p=0.036); and with the
+functional relationship between the amygdala and the hypothalamus, with
+A;A carrier having a significantly increased functional correlation
+(p=0.036). The authors concluded that there is likely a neural mechanism
+linking both structural and neural signalling alterations in the
+oxytocinergic system to individual differences in emotional reactivity
+and prosocial temperament.
+
+
+[PMID 17383819
+<https://www.ncbi.nlm.nih.gov/pubmed/17383819?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Association of the
+oxytocin receptor gene (OXTR) in Caucasian children and adolescents with
+autism. This study found that there is no association between rs53576
+variants and the risk of autism in Caucasian children and adolescents.
+
+
+[PMID 22084107
+<https://www.ncbi.nlm.nih.gov/pubmed/22084107?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Thin-slicing study
+of the oxytocin receptor (OXTR) gene and the evaluation and expression
+of the prosocial disposition
+
+Followup:
+
+
+[PMID 22499788
+<https://www.ncbi.nlm.nih.gov/pubmed/22499788?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Misuse of
+hierarchical linear models overstates the significance of a reported
+association between OXTR and prosociality.
+
+
+[PMID 22357335
+<https://www.ncbi.nlm.nih.gov/pubmed/22357335?dopt=Abstract>] The
+association between oxytocin receptor gene polymorphism (OXTR) and trait
+empathy
+
+
+[PMID 22763666
+<https://www.ncbi.nlm.nih.gov/pubmed/22763666?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] The influence of
+oxytocin administration on responses to infant faces and potential
+moderation by OXTR genotype
+
+
+[PMID 15992526
+<https://www.ncbi.nlm.nih.gov/pubmed/15992526?dopt=Abstract>] Positive
+association of the oxytocin receptor gene (OXTR) with autism in the
+Chinese Han population.
+
+
+[PMID 18687882
+<https://www.ncbi.nlm.nih.gov/pubmed/18687882?dopt=Abstract>] Genetic
+correlates of adult attachment style.
+
+
+[PMID 19515497
+<https://www.ncbi.nlm.nih.gov/pubmed/19515497?dopt=Abstract>] Oxytocin
+receptor polymorphisms and adult attachment style in patients with
+depression.
+
+
+[PMID 20347913
+<https://www.ncbi.nlm.nih.gov/pubmed/20347913?dopt=Abstract>] Evidence
+that genetic variation in the oxytocin receptor (OXTR) gene influences
+social cognition in ADHD.
+
+
+[PMID 20585395
+<https://www.ncbi.nlm.nih.gov/pubmed/20585395?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] No association
+between oxytocin receptor (OXTR) gene polymorphisms and experimentally
+elicited social preferences
+
+
+[PMID 21896752
+<https://www.ncbi.nlm.nih.gov/pubmed/21896752?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Oxytocin receptor
+gene (OXTR) is related to psychological resources.
+
+
+[PMID 22372486
+<https://www.ncbi.nlm.nih.gov/pubmed/22372486?dopt=Abstract>] The role
+of oxytocin and oxytocin receptor gene variants in childhood-onset
+aggression.
+
+
+[PMID 22487732
+<https://www.ncbi.nlm.nih.gov/pubmed/22487732?dopt=Abstract>] Influence
+of COX-2 and OXTR polymorphisms on treatment outcome in treatment
+resistant depression.
+
+
+[PMID 22563705
+<https://www.ncbi.nlm.nih.gov/pubmed/22563705?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Differential
+susceptibility in spillover between interparental conflict and maternal
+parenting practices: evidence for OXTR and 5-HTT genes.
+
+
+[PMID 22580735
+<https://www.ncbi.nlm.nih.gov/pubmed/22580735?dopt=Abstract>]
+Breastfeeding and its relation to maternal sensitivity and infant
+attachment.
+
+
+[PMID 23089921
+<https://www.ncbi.nlm.nih.gov/pubmed/23089921?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Common oxytocin
+receptor gene polymorphisms and the risk for preterm birth
+
+
+[PMID 23284802
+<https://www.ncbi.nlm.nih.gov/pubmed/23284802?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Association
+between Oxytocin Receptor Gene Polymorphisms and Self-Rated 'Empathic
+Concern' in Schizophrenia
+
+
+[PMID 23470776
+<https://www.ncbi.nlm.nih.gov/pubmed/23470776?dopt=Abstract>]
+Environmental stress, oxytocin receptor gene (OXTR) polymorphism, and
+mental health following collective stress
+
+
+[PMID 23684879
+<https://www.ncbi.nlm.nih.gov/pubmed/23684879?dopt=Abstract>] Variant in
+OXTR gene and functional connectivity of the hypothalamus in normal
+subjects
+
+
+[PMID 24295535
+<https://www.ncbi.nlm.nih.gov/pubmed/24295535?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Oxytocin receptor
+gene variation predicts empathic concern and autonomic arousal while
+perceiving harm to others
+
+
+[PMID 24621832
+<https://www.ncbi.nlm.nih.gov/pubmed/24621832?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Oxytocin receptor
+gene polymorphism, perceived social support, and psychological symptoms
+in maltreated adolescents
+
+
+[PMID 22809402
+<https://www.ncbi.nlm.nih.gov/pubmed/22809402?dopt=Abstract>]
+Associations between the oxytocin receptor gene (OXTR) and
+"mind-reading" in humans--an exploratory study.
+
+
+[PMID 22939719
+<https://www.ncbi.nlm.nih.gov/pubmed/22939719?dopt=Abstract>] Oxytocin
+and catechol-O-methyltransferase receptor genotype predict the length of
+the first stage of labor.
+
+
+[PMID 23708061
+<https://www.ncbi.nlm.nih.gov/pubmed/23708061?dopt=Abstract>] Neural
+mechanisms of oxytocin receptor gene mediating anxiety-related temperament.
+
+
+[PMID 22651577
+<https://www.ncbi.nlm.nih.gov/pubmed/22651577?dopt=Abstract>] Oxytocin
+and oxytocin receptor gene polymorphisms and risk for schizophrenia: a
+case-control study
+
+
+[PMID 24814480
+<https://www.ncbi.nlm.nih.gov/pubmed/24814480?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Social cognition,
+face processing, and oxytocin receptor single nucleotide polymorphisms
+in typically developing children
+
+
+[PMID 25003328
+<https://www.ncbi.nlm.nih.gov/pubmed/25003328?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Social stress and
+the oxytocin receptor gene interact to predict antisocial behavior in an
+at-risk cohort
+
+
+[PMID 25001970
+<https://www.ncbi.nlm.nih.gov/pubmed/25001970?dopt=Abstract>] Oxytocin
+receptor gene rs53576 polymorphism modulates oxytocin-dopamine
+interaction and neuroticism traits-A SPECT study
+
+
+[PMID 25564674
+<https://www.ncbi.nlm.nih.gov/pubmed/25564674?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Distress of
+ostracism: Oxytocin receptor gene polymorphism confers sensitivity to
+social exclusion
+
+
+[PMID 25637390
+<https://www.ncbi.nlm.nih.gov/pubmed/25637390?dopt=Abstract>] Oxytocin
+receptor gene and racial ingroup bias in empathy-related brain activity
+
+
+[PMID 25680993
+<https://www.ncbi.nlm.nih.gov/pubmed/25680993?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Interaction
+between oxytocin receptor polymorphism and interdependent culture values
+on human empathy
+
+
+[PMID 25935637
+<https://www.ncbi.nlm.nih.gov/pubmed/25935637?dopt=Abstract>] The
+association between 2D:4D ratio and cognitive empathy is contingent on a
+common polymorphism in the oxytocin receptor gene (OXTR rs53576)
+
+
+[PMID 24621820
+<https://www.ncbi.nlm.nih.gov/pubmed/24621820?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Personality,
+behavior and environmental features associated with OXTR genetic
+variants in British mothers
+
+
+[PMID 25287464
+<https://www.ncbi.nlm.nih.gov/pubmed/25287464?dopt=Abstract>] Empathy,
+target distress, and neurohormone genes interact to predict aggression
+for others-even without provocation
+
+
+[PMID 25450139
+<https://www.ncbi.nlm.nih.gov/pubmed/25450139?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Preliminary
+evidence for the interaction of the oxytocin receptor gene (oxtr) and
+face processing in differentiating prenatal smoking patterns
+
+
+[PMID 26175754
+<https://www.ncbi.nlm.nih.gov/pubmed/26175754?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] DNA methylation
+and single nucleotide variants in the brain-derived neurotrophic factor
+(BDNF) and oxytocin receptor (OXTR) genes are associated with
+anxiety/depression in older women
+
+
+[PMID 26174935
+<https://www.ncbi.nlm.nih.gov/pubmed/26174935?dopt=Abstract>] Oxytocin
+system social function impacts in children with
+attention-deficit/hyperactivity disorder
+
+
+[PMID 26178189
+<https://www.ncbi.nlm.nih.gov/pubmed/26178189?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] A common oxytocin
+receptor gene (OXTR) polymorphism modulates intranasal oxytocin effects
+on the neural response to social cooperation in humans
+
+
+[PMID 26389606
+<https://www.ncbi.nlm.nih.gov/pubmed/26389606?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Genetic Moderation
+of Stability in Attachment Security From Early Childhood to Age 18
+Years: A Replication Study
+
+
+[PMID 26444016
+<https://www.ncbi.nlm.nih.gov/pubmed/26444016?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Polymorphism of
+the Oxytocin Receptor Gene Modulates Behavioral and Attitudinal Trust
+among Men but Not Women
+
+
+[PMID 26787430
+<https://www.ncbi.nlm.nih.gov/pubmed/26787430?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Oxytocin receptor
+gene variation predicts subjective responses to MDMA.
+
+
+[PMID 28715704
+<https://www.ncbi.nlm.nih.gov/pubmed/28715704?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Oxytocin receptor
+gene polymorphisms, attachment, and PTSD: Results from the National
+Health and Resilience in Veterans Study.
+
+
+[PMID 23562248
+<https://www.ncbi.nlm.nih.gov/pubmed/23562248?dopt=Abstract>] The
+association between the oxytocin receptor gene (OXTR) and hypnotizability.
+
+
+[PMID 29860184
+<https://www.ncbi.nlm.nih.gov/pubmed/29860184?dopt=Abstract>] Attempted
+suicide and oxytocin-related gene polymorphisms.
+
+
+[PMID 29890447
+<https://www.ncbi.nlm.nih.gov/pubmed/29890447?dopt=Abstract>] Effect of
+the interaction between oxytocin receptor gene polymorphism (rs53576)
+and stressful life events on aggression in Chinese Han adolescents.
+
+
+[PMID 29927293
+<https://www.ncbi.nlm.nih.gov/pubmed/29927293?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Oxytocin-related
+single-nucleotide polymorphisms, family environment, and psychopathic
+traits.
+
+
+[PMID 32957930
+<https://www.ncbi.nlm.nih.gov/pubmed/32957930?dopt=Abstract>OA-icon.png
+<https://www.snpedia.com/index.php/File:OA-icon.png>] Genetic
+risk-factors for anxiety in healthy individuals: polymorphisms in genes
+important for the HPA axis.
+
+Retrieved from
+"https://www.SNPedia.com/index.php?title=Rs53576&oldid=1702893
+<https://www.snpedia.com/index.php?title=Rs53576&oldid=1702893>"
+Categories <https://www.snpedia.com/index.php/Special:Categories>:
+
+  * Is a snp <https://www.snpedia.com/index.php/Category:Is_a_snp>
+  * In dbSNP <https://www.snpedia.com/index.php/Category:In_dbSNP>
+  * SNPs on chromosome 3
+    <https://www.snpedia.com/index.php/Category:SNPs_on_chromosome_3>
+  * Has genotype <https://www.snpedia.com/index.php/Category:Has_genotype>
+  * On chip 23andMe v2
+    <https://www.snpedia.com/index.php/Category:On_chip_23andMe_v2>
+  * On chip 23andMe v3
+    <https://www.snpedia.com/index.php/Category:On_chip_23andMe_v3>
+  * On chip 23andMe v4
+    <https://www.snpedia.com/index.php/Category:On_chip_23andMe_v4>
+  * On chip 23andMe v5
+    <https://www.snpedia.com/index.php/Category:On_chip_23andMe_v5>
+  * On chip Ancestry v2c
+    <https://www.snpedia.com/index.php/Category:On_chip_Ancestry_v2c>
+  * On chip Ancestry v2d
+    <https://www.snpedia.com/index.php/Category:On_chip_Ancestry_v2d>
+  * On chip Ancestry v2
+    <https://www.snpedia.com/index.php/Category:On_chip_Ancestry_v2>
+
+Tools <#>
+What links here
+<https://www.snpedia.com/index.php/Special:WhatLinksHere/Rs53576>
+Related changes
+<https://www.snpedia.com/index.php/Special:RecentChangesLinked/Rs53576>
+Special pages <https://www.snpedia.com/index.php/Special:SpecialPages>
+Printable version
+<https://www.snpedia.com/index.php?title=Rs53576&printable=yes>
+Permanent link
+<https://www.snpedia.com/index.php?title=Rs53576&oldid=1702893>
+Page information
+<https://www.snpedia.com/index.php?title=Rs53576&action=info>
+Page values
+<https://www.snpedia.com/index.php?title=Rs53576&action=pagevalues>
+Browse properties
+<https://www.snpedia.com/index.php/Special:Browse/:Rs53576>
+
+This page was last edited on 4 October 2020, at 00:06.
+Privacy policy <https://www.snpedia.com/index.php/SNPedia:Privacy_policy>
+About SNPedia <https://www.snpedia.com/index.php/SNPedia:About>
+Disclaimers <https://www.snpedia.com/index.php/SNPedia:General_disclaimer>
+Powered by MediaWiki <https://www.mediawiki.org/>
+Powered by Semantic MediaWiki
+<https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki>
+Powered by the NCBI <http://www.ncbi.nlm.nih.gov/>

@@ -1,0 +1,13 @@
+# VSCode
+.vscode
+
+# PHP
+composer.phar
+vendor
+
+# Python
+bio-env
+
+# Other
+zz-this-is-a-git-repo.txt
+

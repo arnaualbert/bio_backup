@@ -1,0 +1,56 @@
+LOCUS       AB548409                 863 bp    DNA     linear   MAM 25-JUL-2016
+DEFINITION  Ailurus fulgens TAS1R1 gene for taste receptor type 1 member 1,
+            partial cds.
+ACCESSION   AB548409
+VERSION     AB548409.1
+KEYWORDS    .
+SOURCE      Ailurus fulgens (lesser panda)
+  ORGANISM  Ailurus fulgens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Ailuridae; Ailurus.
+REFERENCE   1
+  AUTHORS   Nakajima,C. and Ebihara,M.
+  TITLE     Cloning of umami taste receptor TAS1R1 from various mammals
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 863)
+  AUTHORS   Nakajima,C. and Ebihara,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-FEB-2010) Contact:Mitsuru Ebihara Ishikawa
+            Prefectural University, Dept. Food Science; Nonoichimachi, Suematsu
+            1-308, Ishikawa-gun, Ishikawa 921-8836, Japan E-mail
+            :ebihara@ishikawa-pu.ac.jp
+FEATURES             Location/Qualifiers
+     source          1..863
+                     /organism="Ailurus fulgens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9649"
+     gene            <225..>863
+                     /gene="TAS1R1"
+     CDS             <225..>863
+                     /gene="TAS1R1"
+                     /codon_start=3
+                     /product="taste receptor type 1 member 1"
+                     /protein_id="BAK09336.1"
+                     /translation="LHSCQPCGKEEWAPVGSETCFPRTVVFLTWHETISWVLLAANTL
+                     LLLLVTGTAGLFAWHLDTPVVRSAGGRLCFFMLGSLAGGSCGLYGFFGEPTLPTCLLR
+                     QGLFALGFAIFLSCLTICSFQLVFIFKFSAKVPTFYHAWVQNHGPSLFVVSSSMAQLL
+                     ICLTWLAAWTPLPTREYQRFPQLVVLDCTEANSLGFMLAFAYNGLLSVSAFA"
+ORIGIN      
+        1 aacctaccca agggtctcca gaatctgcaa ttaacacagg catctggagg aaacacttgg
+       61 ccgcggggcc ccactcaggg ctacccccta tctcgctgtg tgcagtagga gcccggcttc
+      121 tgtggtacag cgctcccagc accttgcagg cctacatggc ttcccttcct cattcctgct
+      181 ctgctcatct agctctcagg agccccctcc accttttctt ccagacctcc acagctgcca
+      241 gccttgtggg aaagaagagt gggcacctgt gggaagtgaa acctgctttc cacgcaccgt
+      301 ggtgtttttg acttggcacg agaccatctc ttgggtgctg ctggcagcta atacgttgct
+      361 gctgctgctg gtgactggga ctgctggcct gtttgcctgg cacttagaca cccctgtggt
+      421 gaggtcagct gggggcaggc tgtgcttctt catgctgggc tccctggcag ggggcagctg
+      481 tgggctctat ggcttttttg gggagcccac cctgcccaca tgcttgctgc gccaaggcct
+      541 ctttgccctc ggtttcgcca tcttcctgtc ctgcctgaca atctgttcct tccaactggt
+      601 cttcatcttc aagttttctg ccaaggtacc caccttctac cacgcctggg tccaaaacca
+      661 tggtcccagc ctatttgtgg tcagcagctc aatggcgcag ctgctcatct gtctaacttg
+      721 gcttgcggcg tggaccccac tgcccaccag ggagtaccag cgcttccccc agctggtggt
+      781 gctcgactgc acagaggcca actccttggg cttcatgttg gctttcgcct acaacggcct
+      841 cctgtccgtc agcgcctttg cct
+//
+

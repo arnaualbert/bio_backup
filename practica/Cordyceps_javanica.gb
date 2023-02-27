@@ -1,0 +1,57 @@
+LOCUS       NG_063093                922 bp    DNA     linear   PLN 14-DEC-2018
+DEFINITION  Cordyceps javanica CBS 134.22 18S rRNA gene, partial sequence; from
+            TYPE material.
+ACCESSION   NG_063093
+VERSION     NG_063093.1
+DBLINK      BioProject: PRJNA39195
+KEYWORDS    RefSeq.
+SOURCE      Cordyceps javanica
+  ORGANISM  Cordyceps javanica
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Sordariomycetes; Hypocreomycetidae; Hypocreales; Cordycipitaceae;
+            Cordyceps.
+REFERENCE   1  (bases 1 to 922)
+  AUTHORS   Kepler,R.M., Luangsa-Ard,J.J., Hywel-Jones,N.L., Quandt,C.A.,
+            Sung,G.H., Rehner,S.A., Aime,M.C., Henkel,T.W., Sanjuan,T.,
+            Zare,R., Chen,M., Li,Z., Rossman,A.Y., Spatafora,J.W. and
+            Shrestha,B.
+  TITLE     A phylogenetically-based nomenclature for Cordycipitaceae
+            (Hypocreales)
+  JOURNAL   IMA Fungus 8 (2), 335-353 (2017)
+   PUBMED   29242779
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to MF416610.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: CodonCode v. 2.0.6
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..922
+                     /organism="Cordyceps javanica"
+                     /mol_type="genomic DNA"
+                     /culture_collection="CBS:134.22"
+                     /type_material="culture from holotype of Cordyceps
+                     javanica"
+                     /db_xref="taxon:43265"
+     rRNA            <1..>922
+                     /product="18S ribosomal RNA"
+ORIGIN      
+        1 gtggttaatt ctagagctaa tacatgctaa aaatcccgac ttcggaaggg atgtatttat
+       61 tagattaaaa accaatgccc tctgggctcc ttggtgattc ataataactt ttcgaatcgc
+      121 atggccttgc gccggcgatg gttcattcaa atttcttccc tatcaacttt cgatgtttgg
+      181 gtattggcca aacatggtcg caacgggtaa cggagggtta gggctcgacc ccggagaagg
+      241 agcctgagaa acggctacta catccaagga aggcagcagg cgcgcaaatt acccaatccc
+      301 gattcgggga ggtagtgaca ataaatactg atacagggct cttttgggtc ttgtaattgg
+      361 aatgagtaca atttaaatcc cttaacgagg aacaattgga gggcaagtct ggtgccagca
+      421 gccgcggtaa ttccagctcc aatagcgtat attaaagttg ttgtggttaa aaagctcgta
+      481 gttgaacctt gggcctggct ggccggtccg cctcaccgcg tgtactggtc cggccgggcc
+      541 tttccctctg tggaacctca tgcccttcac tgggtgtggc ggggaaacag gacttttact
+      601 ttgaaaaaat taaagtgctc caggcaggcc tatgctcgaa tacattagca tggaataata
+      661 aaataggacg tgtggttcta ttttgttggt ttctaggacc gccgtaatga ttaataggga
+      721 cagtcggggg catcagtatt caattgtcag aggtgaaatt cttggattta ttgaagacta
+      781 actactgcga aagcatttgc caaggatgtt ttcattaatc aggaacgaaa gttaggggat
+      841 cgaagacgat cagataccgt cgtagtctta accataaact atgccgacta gggatcggac
+      901 gagttatttt ttgacgcgtt cg
+//
+

@@ -1,0 +1,51 @@
+LOCUS       NG_067716               1067 bp    DNA     linear   PLN 21-FEB-2020
+DEFINITION  Cordyceps ghanensis CBS 105.73 18S rRNA gene, partial sequence;
+            from TYPE material.
+ACCESSION   NG_067716
+VERSION     NG_067716.1
+DBLINK      BioProject: PRJNA39195
+KEYWORDS    RefSeq.
+SOURCE      Cordyceps ghanensis
+  ORGANISM  Cordyceps ghanensis
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Sordariomycetes; Hypocreomycetidae; Hypocreales; Cordycipitaceae;
+            Cordyceps.
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to MN296399.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1067
+                     /organism="Cordyceps ghanensis"
+                     /mol_type="genomic DNA"
+                     /strain="CBS 105.73"
+                     /host="Lepidoptera (pupa)"
+                     /culture_collection="CBS:105.73"
+                     /type_material="culture from holotype of Cordyceps
+                     ghanensis"
+                     /db_xref="taxon:264949"
+     rRNA            <1..>1067
+                     /product="18S ribosomal RNA"
+ORIGIN      
+        1 taagcactgc atgtctaagt ataagcaatt atacagcgaa actgcgaatg gctcattata
+       61 taagttatcg tttatttgat agtaccttac tacttggata accgtggtaa ttctagagct
+      121 aatacatgct aaaaatcccg actccggaag ggatgtattt attagattaa aaaccaatgc
+      181 cccctgggcc ccttggtgat tcatgataac tattcgaatc gcacggcctt gcgccggcga
+      241 tggttcattc aaatttcttc cctatcaact ttcgatgttt gggtattggc caaacatggt
+      301 tgcaacgggt aacggagggt tagggctcga ccccggagaa ggagcctgag aaacggctac
+      361 tacatccaag gaaggcagca ggcgcgcaaa ttacccaatc ccgattcggg agaggtagtg
+      421 acaataaata ctgatacagg gctcttttgg gtcttgtaat tggaatgagt acaatttaaa
+      481 tctcttaacg aggaacaatt ggagggcaag tctggtgcca gcagccgcgg taattccagc
+      541 tccaatagcg tatattaaag ttgttgtggt taaaaagctc gtagttgaac cttgggcctg
+      601 gctggccggt ccgcctcacc gcgtgcactg gtccggccgg gcctttccct ctgtggaacc
+      661 ccatgccctt cactgggcgt ggcggggaaa caagacgttt actttgaaaa aattagagtg
+      721 ctccaggcag gcctatgctc gaatacatta gcatggaata atgaaatagg acgcgtggtt
+      781 ctattttgtt ggtttctagg accgccgtaa tgattaatag ggacagtcgg gggcatcagt
+      841 attcaattgt cagaggtgaa attcttggat ttattgaaga ctaactactg cgaaagcatt
+      901 tgccaaggat gttttcatta atcaggaacg aaagttaggg gatcgaagac gatcagatac
+      961 cgtcgtagtc ttaaccataa actatgccga ctagggatcg gacgatgtta ttttttgacg
+     1021 cgttcggcac cttacgagaa atcaaagtgc ttgggctcca gggggag
+//
+
